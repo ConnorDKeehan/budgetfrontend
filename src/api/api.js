@@ -1,4 +1,4 @@
-const apiBaseUrl = 'http://localhost:5018/';
+const apiBaseUrl = 'https://connormdk.xyz/';
 
 class ApiService {
     constructor(apiKey) {
