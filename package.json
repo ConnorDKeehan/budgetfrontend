@@ -1,6 +1,6 @@
 {
-  "name": "budgetfrontend",
-  "homepage": "https://connordoughertykeehan-infotrack.github.io/budgetfrontend/",
+  "name": "budget-front-end",
+  "homepage": "https://connordoughertykeehan-infotrack.github.io/budget-front-end/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
